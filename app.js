@@ -1,3 +1,5 @@
+console.log("Hasindu Chanuka");
+
 const myPromise = new Promise((resolve, reject) => {
   const condition = true;
   if (condition) resolve('Success!');
